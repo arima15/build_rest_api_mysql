@@ -1,0 +1,19 @@
+{
+    "06dd7fa8-aaab-4dd0-b63c-ca1ef54df0db":
+    {
+        "id":"06dd7fa8-aaab-4dd0-b63c-ca1ef54df0db",
+        "name":"Digital Clock",
+        "price":300,
+        "quantity":50,
+        "image":"image_url.png"
+    },
+
+    "35bb7a12-3fde-4e8a-917a-ac0473292bf":
+    {
+        "id":"35bb7a12-3fde-4e8a-917a-ac0473e292bf",
+        "name":"Monitor",
+        "price":"1800",
+        "quantity":"20",
+        "image":"monitor_url.png"
+    }
+}
